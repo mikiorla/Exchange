@@ -40,7 +40,7 @@ $Error
 
 $email    = "qmail@ktehnika.co.rs"
 $username = "qmail"
-$password = "Novisad1"
+$password = "user pass"
 $domain   = "ktehnika"
 
 $asembly = 'D:\_scripts\EWS\Microsoft.Exchange.WebServices.2.2\lib\40\Microsoft.Exchange.WebServices.dll'
